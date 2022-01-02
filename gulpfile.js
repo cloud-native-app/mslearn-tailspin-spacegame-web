@@ -7,8 +7,8 @@ const gulp = require("gulp"),
       cleanCSS = require("gulp-clean-css"),
       uglify = require("gulp-uglify");
 
+  
 
-      
 const paths = {
   webroot: "./Tailspin.SpaceGame.Web/wwwroot/"
 };
